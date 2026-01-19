@@ -33,10 +33,7 @@ const aboutMe = {
     name: "Rafli Lutful Hakim",
     role: "Full Stack Developer ",
     education: "Information Systems @ Universitas PGRI Yogyakarta",
-    location: "Jawa Tengah, Indonesia 🇮🇩",
-    interests: ["Web Development", "UI/UX", "Open Source"],
-    currentlyLearning: ["React", "Node.js", "TypeScript"],
-    funFact: "I debug with console.log() "
+    location: "Jawa Tengah, Indonesia 🇮🇩","
 };
 ```
 
