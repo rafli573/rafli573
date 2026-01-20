@@ -37,10 +37,10 @@ const aboutMe = {
 };
 ```
 
-🎓 Currently studying **Information Systems**  
-💻 Love building **web applications** and exploring **new tech**  
-🌱 Always eager to **learn** and **grow**  
-📫 Let's connect and collaborate!
+ Currently studying **Information Systems**  
+ Love building **web applications** and exploring **new tech**  
+ Always eager to **learn** and **grow**  
+ Let's connect and collaborate!
 
 ---
 
