@@ -34,9 +34,6 @@ const aboutMe = {
     role: "Full Stack Developer ",
     education: "Information Systems @ Universitas PGRI Yogyakarta",
     location: "Jawa Tengah, Indonesia 🇮🇩",
-    interests: ["Web Development", "UI/UX", "Open Source"],
-    currentlyLearning: ["React", "Node.js", "TypeScript"],
-    funFact: "I debug with console.log() "
 };
 ```
 
