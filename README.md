@@ -31,7 +31,6 @@
 ```javascript
 const aboutMe = {
     name: "Rafli Lutful Hakim",
-    role: "Full Stack Developer ",
     education: "Information Systems @ Universitas PGRI Yogyakarta",
     location: "Jawa Tengah, Indonesia 🇮🇩",
 };
